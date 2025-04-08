@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SatrisCollegeApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SatrisCollegeApp_jar</output-path>
+    <root id="archive" name="SatrisCollegeApp.jar">
+      <element id="module-output" name="SatrisCollegeApp" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.49.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
